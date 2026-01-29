@@ -18,30 +18,30 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 ------------
 <h3 align="left">My Github Status:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitForAmmar11&label=Profile%20views&color=0e75b6&style=flat" alt="gitForAmmar11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitForAmmar11&label=Profile%20views&color=0e75b6&style=flat" alt="MdAmmarHossain11" /> </p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=gitForAmmar11&theme=transparent&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MdAmmarHossain11&theme=transparent&hide_border=true)<br/>
 
 <table>
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" 
-        alt="gitForAmmar11" 
+        src="https://github-readme-stats.vercel.app/api?username=MdAmmarHossain11&show_icons=true&locale=en" 
+        alt="MdAmmarHossain11" 
         height="180"
       />
     </td>
     <td>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" 
-        alt="gitForAmmar11" 
+        alt="MdAmmarHossain11" 
         height="180"
       />
     </td>
   </tr>
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitForAmmar11" alt="gitForAmmar11" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MdAmmarHossain11" alt="MdAmmarHossain11" /></a> </p>
 
 <hr>
 
