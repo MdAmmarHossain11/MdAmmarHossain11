@@ -33,7 +33,7 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAmmarHossain11&show_icons=true&locale=en&layout=compact" 
         alt="MdAmmarHossain11" 
         height="180"
       />
