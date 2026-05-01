@@ -27,11 +27,10 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
     alt="MdAmmarHossain11" 
     height="180"
 />
-      
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MdAmmarHossain11" alt="MdAmmarHossain11" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdAmmarHossain11&" alt="MdAmmarHossain11" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MdAmmarHossain11" alt="MdAmmarHossain11" /></a> </p>
 
 <hr>
 
