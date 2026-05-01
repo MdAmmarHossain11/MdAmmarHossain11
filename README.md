@@ -22,24 +22,12 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 
 ![](https://nirzak-streak-stats.vercel.app/?user=MdAmmarHossain11&theme=transparent&hide_border=true)<br/>
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=MdAmmarHossain11&show_icons=true&locale=en" 
-        alt="MdAmmarHossain11" 
-        height="180"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAmmarHossain11&show_icons=true&locale=en&layout=compact" 
-        alt="MdAmmarHossain11" 
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=MdAmmarHossain11&show_icons=true&locale=en" 
+    alt="MdAmmarHossain11" 
+    height="180"
+/>
+      
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MdAmmarHossain11" alt="MdAmmarHossain11" /></a> </p>
 
