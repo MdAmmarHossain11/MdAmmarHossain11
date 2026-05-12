@@ -18,7 +18,7 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 ------------
 <h3 align="left">My Github Status:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdAmmarHossain11&label=Profile%20views&color=0e75b6&style=flat" alt="MdAmmarHossain11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitForAmmar11&label=Profile%20views&color=0e75b6&style=flat" alt="MdAmmarHossain11" /> </p>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=MdAmmarHossain11&theme=transparent&hide_border=true)<br/>
 
