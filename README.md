@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi I'm Md. Ammar Hossain</h1>
 
-<h3 align="center">I am a Computer Science and Engineering student at United International University (UIU) <br> <br>
-Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have experience as an Invigilator at IDP IELTS, Editor at Aspect Series, Instructor at Learnica, Head of HR at UIU APP Forum, and Campus Ambassador at ICT Olympiad Bangladesh. I build productive relationships through effective communication and guidance, and I am committed to continuous learning while contributing effectively through my technical, analytical, and organizational strengths.</h3>
+<h3 align="center">I am Md. Ammar Hossain, a Computer Science and Engineering graduate from United International University (UIU)<br> <br>
+I am passionate about education, research, development, and community engagement. Throughout my academic journey, I have continuously sought opportunities to expand my technical expertise, strengthen my leadership abilities, and contribute to meaningful projects that create a positive impact. My experience spans teaching, technical development, research, event management, and organizational leadership.
+</h3>
 
 
 - 👀 I’m interested in programing!
@@ -13,7 +14,7 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 - 💞️ I’m looking to collaborate on open source project!
 - 🎡 I already completed several software and hardware projects!
 - 🎆 I have clear knowledge about data structure and algorithm!
-- 💬 Ask me about <strong>C, C++, JAVA, Python, html, css, javascript, javafx, react, node.js, scenebuilder, php, Django, mysql, SQLite!</strong>
+- 💬 Ask me about <strong>C, C++, JAVA, Python, html, css, react, node.js, php, Django, mysql, SQLite!</strong>
 - 📫 <strong>Contact me via e-mail:</strong> mdammarhossain11@gmail.com
 ------------
 <h3 align="left">My Github Status:</h3>
