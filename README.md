@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi I'm Md. Ammar Hossain</h1>
 
-<h3 align="center">I am Md. Ammar Hossain, a Computer Science and Engineering graduate from United International University (UIU)<br> <br>
+<h3 align="center">A Computer Science and Engineering graduate from United International University (UIU)<br> <br>
 I am passionate about education, research, development, and community engagement. Throughout my academic journey, I have continuously sought opportunities to expand my technical expertise, strengthen my leadership abilities, and contribute to meaningful projects that create a positive impact. My experience spans teaching, technical development, research, event management, and organizational leadership.
 </h3>
 
