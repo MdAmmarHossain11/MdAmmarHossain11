@@ -13,7 +13,7 @@ I am passionate about education, research, development, and community engagement
 - 🌱 I’m currently learning Maching Learning Tools!
 - 💞️ I’m looking to collaborate on open source project!
 - 🎡 I already completed several software and hardware projects!
-- 🎆 I have clear knowledge about data structure and algorithm!
+- 🎆 I have clear knowledge about data structures and algorithms!
 - 💬 Ask me about <strong>C, C++, JAVA, Python, html, css, react, node.js, php, Django, mysql, SQLite!</strong>
 - 📫 <strong>Contact me via e-mail:</strong> mdammarhossain11@gmail.com
 ------------
