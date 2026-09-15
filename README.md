@@ -21,7 +21,7 @@ I am passionate about education, research, development, and community engagement
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitForAmmar11&label=Profile%20views&color=0e75b6&style=flat" alt="MdAmmarHossain11" /> </p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=MdAmmarHossain11&theme=transparent&hide_border=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MdAmmarHossain11&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <img 
     src="https://github-readme-stats.vercel.app/api?username=MdAmmarHossain11&show_icons=true&locale=en" 
