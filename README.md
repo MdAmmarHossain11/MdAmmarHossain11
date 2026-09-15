@@ -23,12 +23,6 @@ I am passionate about education, research, development, and community engagement
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MdAmmarHossain11&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=MdAmmarHossain11&show_icons=true&locale=en" 
-    alt="MdAmmarHossain11" 
-    height="180"
-/>
-
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
