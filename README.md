@@ -29,8 +29,6 @@ I am passionate about education, research, development, and community engagement
     height="180"
 />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdAmmarHossain11&" alt="MdAmmarHossain11" /></p>
-
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
