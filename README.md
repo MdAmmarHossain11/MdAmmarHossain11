@@ -17,9 +17,12 @@ I am passionate about education, research, development, and community engagement
 - 💬 Ask me about <strong>C, C++, JAVA, Python, html, css, react, node.js, php, Django, mysql, SQLite!</strong>
 - 📫 <strong>Contact me via e-mail:</strong> mdammarhossain11@gmail.com
 ------------
-<h3 align="left">My Github Status:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdAmmarHossain11&label=Profile%20views&color=0e75b6&style=flat" alt="MdAmmarHossain11" /> </p>
+<h3 align="left">My GitHub Status:</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MdAmmarHossain11&label=Profile%20views&color=0e75b6&style=flat&cache=1" alt="Profile views" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MdAmmarHossain11&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
