@@ -1,6 +1,4 @@
-<img width="1050" height="600" alt="Ammar Business Card" src="https://github.com/user-attachments/assets/603955c0-82ff-4111-b994-d356abbf585c" />
-
-
+<img width="851" height="315" alt="Md Ammar Hossain" src="https://github.com/user-attachments/assets/35f956a3-3d8f-437c-9471-839543f9ed0a" />
 
 <h1 align="center">Hi I'm Md. Ammar Hossain</h1>
 
