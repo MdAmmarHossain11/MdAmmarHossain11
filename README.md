@@ -6,6 +6,14 @@
 I am passionate about education, research, development, and community engagement. Throughout my academic journey, I have continuously sought opportunities to expand my technical expertise, strengthen my leadership abilities, and contribute to meaningful projects that create a positive impact. My experience spans teaching, technical development, research, event management, and organizational leadership.
 </h3>
 
+<p align="center">
+  <h4>Get in Touch</h4>
+  <a href="https://mdammarhossain30.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mdammarhossain11">LinkedIn</a> •
+  <a href="https://codeforces.com/profile/mdammarhossain">Codeforces</a> •
+  <a href="mdammarhossain11@gmail.com">Email</a> 
+</p>
+
 
 - 👀 I’m interested in programing!
 - 🌱 I’m currently learning Maching Learning Tools!
@@ -47,10 +55,10 @@ I am passionate about education, research, development, and community engagement
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://github.com/gitForAmmar11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammadammar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadammar11" height="30" width="40" /></a>
+<a href="https://github.com/MdAmmarHossain11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdammarhossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@VoiceofAmmar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@VoiceofAmmar11" height="30" width="40" /></a>
-<a href="https://fb.com/mohammad.ammar.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad.ammar.11" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Md.AmmarHossain.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/ammar_hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ammar_hossain11" height="30" width="40" /></a>
 <a href="https://www.threads.net/@ammar_hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/threads.svg" alt="@ammar_hossain11" height="30" width="40" /></a>
 <a href="https://discord.com/users/mohammad.ammar.hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammad.ammar.hossain11" height="30" width="40" /></a>
