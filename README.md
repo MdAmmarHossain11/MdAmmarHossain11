@@ -6,8 +6,8 @@
 I am passionate about education, research, development, and community engagement. Throughout my academic journey, I have continuously sought opportunities to expand my technical expertise, strengthen my leadership abilities, and contribute to meaningful projects that create a positive impact. My experience spans teaching, technical development, research, event management, and organizational leadership.
 </h3>
 
+<h3 align="center">Get in Touch</h3>
 <p align="center">
-  <h4>Get in Touch</h4>
   <a href="https://mdammarhossain30.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/mdammarhossain11">LinkedIn</a> •
   <a href="https://codeforces.com/profile/mdammarhossain">Codeforces</a> •
@@ -17,11 +17,9 @@ I am passionate about education, research, development, and community engagement
 
 - 👀 I’m interested in programing!
 - 🌱 I’m currently learning Maching Learning Tools!
-- 💞️ I’m looking to collaborate on open source project!
 - 🎡 I already completed several software and hardware projects!
 - 🎆 I have clear knowledge about data structures and algorithms!
 - 💬 Ask me about <strong>C, C++, JAVA, Python, html, css, react, node.js, php, Django, mysql, SQLite!</strong>
-- 📫 <strong>Contact me via e-mail:</strong> mdammarhossain11@gmail.com
 ------------
 
 
