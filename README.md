@@ -10,7 +10,6 @@ I am passionate about education, research, development, and community engagement
 <p align="center">
   <a href="https://mdammarhossain30.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/mdammarhossain11">LinkedIn</a> •
-  <a href="https://codeforces.com/profile/mdammarhossain">Codeforces</a> •
   <a href="mailto:mdammarhossain11@gmail.com">Email</a>
 </p>
 
